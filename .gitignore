@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+**/.DS_Store
+*/.DS_Store
+.DS_Store
+
+**/.python-version
+**/.venv
+**/pyproject.toml
+**/uv.lock
+
+**/tester.py
+
+**/logs
+**/Project_Creation
+
+**/Jenkinsfile
+**/Dockerfile
+
+
+**/notebook
+
+**/custom_jenkins
+
+
+**/deployment.yaml
